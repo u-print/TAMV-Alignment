@@ -1,3 +1,6 @@
+This is a specific fork of the TAMV-Alignment program, maintained by U-PRINT staff at Uppsala University for use with the Bioprinter. All credit for the original software rests with the original developers of TAMV.
+
+
 **TAMV _is under active development!_**
 # Table of Contents
 - [TAMV Walkthrough Video](#tamv-beta-in-action)
@@ -13,7 +16,7 @@
   * [TAMV (legacy command-line interface)](#tamv-legacy-command-line-interface)
 - [TAMV Community Videos](#tamv-community-videos)
 
-**You can find me (H2B) on the [Jubilee Discord Server](https://discord.gg/XkphRqb) and I'll be more than glad to help you get things up and running.**
+
 
 # TAMV Beta in Action
 We've got a short walkthrough of TAMV in operation up on YouTube, and there you can see a real-time setup and alignment for a 3 tool printer. Click on the image to head over there!
@@ -120,7 +123,7 @@ _[back to top](#table-of-contents)_
    
    type `cd`, and hit enter
    
-   type `git clone https://github.com/OllePonten/TAMV` and hit enter
+   type `git clone https://github.com/u-print/TAMV-Alignment` and hit enter
    
 2. type `cd TAMV` and press enter
 3. Run `~/TAMV/install_opencv.sh`
